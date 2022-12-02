@@ -3,3 +3,7 @@ This is Chat Application
 Emoji
 Type option
 colors
+
+
+Dark mode
+video calls
